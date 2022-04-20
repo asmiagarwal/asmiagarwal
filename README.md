@@ -13,10 +13,14 @@ Hey There I am Asmi
       </div>
     <img src="https://komarev.com/ghpvc/?username=asmiagarwal&style=flat-square&color=blue" alt=""/>
   </div>
-  
-
-👋 Hi, I’m Asmi Agarwal
-👀 I’m interested in Coding, App Development , Web Development, AR/VR/MR/XR, Python, Java, Cybersecurity, Google Cloud and recent technologies.
-🌱 I’m currently learning Python,  App Development, Google Cloud.
+    <div align="center">
+  <img src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e477m95lxmzo4tgbchfljklgmd800n9nxcf9bvzpz14&rid=giphy.gif&ct=s" width="300" height="300"/>
+</div>
+    
+### 👩‍💻 About Me :
+     🌱 I’m currently learning Coding, Web Development, AR/VR/MR/XR, Google Cloud 
+    👀 I'm interested in App Development, Cybersecurity,Metaverse and recent technologies.
+    
+<!--
 💞️ I’m looking to collaborate with Developers
-📫 How to reach me: agarwal.asmi@gmail.com
+📫 How to reach me: agarwal.asmi@gmail.com -->
