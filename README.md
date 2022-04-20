@@ -13,14 +13,15 @@ Hey There I am Asmi
       </div>
     <img src="https://komarev.com/ghpvc/?username=asmiagarwal&style=flat-square&color=blue" alt=""/>
   </div>
-    <div align="center">
-  <img src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e477m95lxmzo4tgbchfljklgmd800n9nxcf9bvzpz14&rid=giphy.gif&ct=s" width="300" height="300"/>
-</div>
+   
     
 ### 👩‍💻 About Me :
-     🌱 I’m currently learning Coding, Web Development, AR/VR/MR/XR, Google Cloud 
-    👀 I'm interested in App Development, Cybersecurity,Metaverse and recent technologies.
+  🧑‍💻I am currently learning Coding, Web Development, AR/VR/MR/XR, Google Cloud 
+
+- :seedling: I’m interested in  App Devlopment, Cybersecurity, MetaVerse and recent technologies.
+
+- 📚 In my free time, I do courses to upgrade my skills and earn certifications & swags also read tech articles.
     
-<!--
-💞️ I’m looking to collaborate with Developers
-📫 How to reach me: agarwal.asmi@gmail.com -->
+    💞️ I’m looking to collaborate with Developers 
+    
+    
