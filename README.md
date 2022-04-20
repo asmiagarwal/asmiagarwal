@@ -20,7 +20,7 @@ Hey There I am Asmi
 
 - :seedling: I’m interested in  App Devlopment, Cybersecurity, MetaVerse and recent technologies.
 
-- 📚 In my free time, I do courses to upgrade my skills and earn certifications & swags also read tech articles.
+- 📚 In my free time, I like to develop new skills 
     
     💞️ I’m looking to collaborate with Developers 
     
