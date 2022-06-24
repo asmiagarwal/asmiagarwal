@@ -4,7 +4,7 @@ Hey There I am Asmi
 <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e4764u2rz802v8hbkh1rm0mh764ox5vibuhem67l7jn&rid=giphy.gif&ct=s" width="40px" height="50px"/>
   </h1>
   <div id="header" align="center">
-    <img src="https://media2.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif?cid=ecf05e47jdi1xz2su21ar3l40s5trd62evvmcm5280sznsoo&rid=giphy.gif&ct=s" width="140px"/>
+      <img src="https://media2.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif?cid=ecf05e47jdi1xz2su21ar3l40s5trd62evvmcm5280sznsoo&rid=giphy.gif&ct=s" width="140px" height="200px"/>
   </div>
   <div id="header" align="center">
   <div id="badges">
@@ -13,7 +13,11 @@ Hey There I am Asmi
       </div>
     <img src="https://komarev.com/ghpvc/?username=asmiagarwal&style=flat-square&color=blue" alt=""/>
   </div>
+  </div>
    
+  
+<div id="header" align="left">
+
     
 ### 👩‍💻 About Me :
   🧑‍💻I am currently learning Coding, Web Development, AR/VR/MR/XR, Google Cloud 
