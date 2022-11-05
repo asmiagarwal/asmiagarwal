@@ -6,7 +6,12 @@ Hi I'm Asmi Agarwal <img src="https://user-images.githubusercontent.com/1303154/
 </h2>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on some projects for my portfolio and learning more about C and C++.
+👯 I’m looking to collaborate on any projects that are interesting to me.
+🤝 I’m looking for help with contributing to open source projects.
+🌱 I’m currently learning Java, C, C++, and Python.
+💬 Ask me about anything, I'm happy to help.
+⚡ Fun fact about me: I love to read comics.
 
 
 ## 🌐 Socials:
